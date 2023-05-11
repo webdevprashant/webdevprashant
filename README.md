@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**webdevprashant/webdevprashant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Web server configuration using Ansible in AWS ec2](https://medium.com/@prashantsde/deploy-web-server-using-ansible-in-aws-ec2-3cf61f08b761)
+- [Create CI/CD Pipeline to deploy Flask App in Heroku cloud using gitlab platform](https://medium.com/@prashantsde/complete-ci-cd-pipeline-to-deploy-flask-app-in-heroku-cloud-using-gitlab-platform-50e56f84f860)
+- [Deploy Java Application by CI/CD pipeline using Jenkins in Docker environment](https://medium.com/@prashantsde/deploy-java-application-with-complete-ci-cd-pipeline-jenkins-21d210279794)
+- [GUI apps run inside docker](https://medium.com/@prashantsde/run-gui-programs-inside-docker-container-511557f07706)
+- [Integrate Machine Learning with Docker](https://medium.com/@prashantsde/dockerfile-with-example-dcf7183d2406)
+- [Helm chart for Setup and deploy web application](https://medium.com/@prashantsde/setup-web-application-using-helm-chart-76b21941bf4)
+- [Detect Face from Live video Streaming using OpenCV](https://medium.com/@prashantsde/detect-face-from-live-video-streaming-and-crop-and-blur-face-part-using-opencv-28655e410cc)
+- [Creating a Rest API Architecture with Express JS, Node JS, MongoDB from Scratch](https://medium.com/@prashantsde/creating-a-rest-api-architecture-with-express-js-node-js-mongodb-from-scratch-1f0f12d288e8)
+- [Setup Path-Based Routing (Ingress) in Kubernetes by Helm Chart](https://medium.com/@prashantsde/setup-path-based-routing-ingress-in-kubernetes-by-helm-chart-e7147a15dfcd)
+- [Setup Entire PKI Infrastructure and Access web server (HTTPD) via HTTPS](https://medium.com/@prashantsde/setup-entire-pki-infrastructure-and-access-web-server-httpd-via-https-part-1-2c57f9ff60f8)
+- [Setup Multi-Container Application (WordPress) using Docker Compose](https://medium.com/@prashantsde/setup-multi-container-application-wordpress-using-docker-compose-b4f0329331cf)
